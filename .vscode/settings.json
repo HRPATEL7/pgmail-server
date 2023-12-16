@@ -1,0 +1,14 @@
+{
+    "rust-analyzer.linkedProjects": [
+        ".\\Cargo.toml",
+        ".\\Cargo.toml"
+    ],
+    "cSpell.words": [
+        "ehlo",
+        "KTHXBYE",
+        "pgmail",
+        "rustls",
+        "tcphandler",
+        "wrietosoket"
+    ]
+}
