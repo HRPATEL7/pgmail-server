@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({
     pass: "mmue gwcm vbki gylc ",
   },
   tls:{
-    rejectUnauthorized: false
+    rejectUnauthorized: false  
   }
 });
 
