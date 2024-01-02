@@ -11,7 +11,7 @@ const transporter = nodemailer.createTransport({
     pass: "mmue gwcm vbki gylc ",
   },
   tls:{
-    rejectUnauthorized: false
+    rejectUnauthorized: false  
   }
 });
 
@@ -28,7 +28,7 @@ async function main() {
   });
 
   console.log("Message sent: %s", info.messageId);
-  // Message sent: <b658f8ca-6296-ccf4-8306-87d57a0b4321@example.com>
+ 
 
   //
   // NOTE: You can go to https://forwardemail.net/my-account/emails to see your email delivery status and preview
